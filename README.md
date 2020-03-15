@@ -28,7 +28,7 @@ Online уроки в Русской Школе будут организован
 ![схема организации online-уроков в Кембриджской русской школе](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/figures/distance-education-structure.png)
 
 
-Для успешного использования этой схемы необходима следующая подготовка ([подробные инструкции здесь](zoom-edmodo-instructions.md)).
+Для успешного использования этой схемы необходима следующая подготовка ([подробные инструкции здесь](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)).
 
 Администрация Школы **заранее (не позднее 18 марта)**
 
@@ -42,14 +42,14 @@ Online уроки в Русской Школе будут организован
  * создают **одну** видео-конференцию в ZOOM'e - эта видео-конференция будет использоваться как online "кабинет учителя"
  * высылают администрации коды доступа к своим ZOOM видео-конференциям (один учитель - одна видео-конференция и один код доступа!)
 
-[Более подробные инструкции здесь.](zoom-edmodo-instructions.md)
+[Более подробные инструкции здесь.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
 Родители
 
  * заранее (не позднее 19 марта) устанавливают ZOOM на своем домашнем компьютере
  * используют полученные коды доступа, чтобы подсоединиться к видео-урокам в день занятий
 
-[Более подробные инструкции здесь.](zoom-edmodo-instructions.md)
+[Более подробные инструкции здесь.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
 # Полезные ссылки
  * [Tаблица уроков, которые могут проводиться online и оценка готовности учителей](https://docs.google.com/spreadsheets/d/1nRFMS145sagJ6BqQtX3eFuEH3QcsadTruQc9sQUIZWg/edit?usp=sharing)
