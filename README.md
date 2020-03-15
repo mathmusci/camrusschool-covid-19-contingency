@@ -48,11 +48,12 @@ Online уроки в Русской Школе будут организован
  * заранее (не позднее 19 марта) устанавливают ZOOM на своем домашнем компьютере
  * используют полученные коды доступа, чтобы подсоединиться к видео-урокам в день занятий
 
+[Более подробные инструкции здесь.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
+
 **Как только принимается решение о переводе школы в online-режим администрация**
  * **уведомляет об этом родителей и учителей**
  * **рассылает полученные от учителей коды доступа родителям (родители затем сами находят нужный код доступа напротив имени учителя)**
 
-[Более подробные инструкции здесь.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
 # Полезные ссылки
  * [Tаблица уроков, которые могут проводиться online и оценка готовности учителей](https://docs.google.com/spreadsheets/d/1nRFMS145sagJ6BqQtX3eFuEH3QcsadTruQc9sQUIZWg/edit?usp=sharing)
