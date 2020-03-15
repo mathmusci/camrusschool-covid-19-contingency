@@ -25,7 +25,7 @@
 
 &nbsp;
 
-* (**ВАЖНО!**) запись видео-уроков запрещена, поэтому  **заранее** посетите страницу с настройками для видео записи [https://zoom.us/profile/setting?tab=recording](https://zoom.us/profile/setting?tab=recording) и установите их следующим образом: `Local recording -> OFF`, `Automatic recording -> OFF`, `Recording consent -> ON`, `Multiple audio notifications of recorded meeting -> ON`
+* (**ВАЖНО!**) запись видео-уроков запрещена, поэтому  **заранее** посетите страницу с настройками для видео записи [https://zoom.us/profile/setting?tab=recording](https://zoom.us/profile/setting?tab=recording) и установите их следующим образом: `Local recording -> OFF`, `Automatic recording -> OFF`, `Recording consent -> ON`, `Multiple audio notifications of recorded meeting -> ON`. 
 
 &nbsp;
 
@@ -36,6 +36,8 @@
 * чтобы начать online урок нажмите New Meeting 
 
 * в программе ZOOM имеется электронная доска (`Whiteboard`), которую можно использовать во время урока; для этого нажмите `Share screen -> Whiteboard` (эта функция работает только во время урока)
+
+* При проведении online-уроков учителя продолжают заполнять таблицы посещаемости.
 
 Мы пользуемся `Zoom`'om в бесплатном режиме, поэтому встреча заканчивается автоматически и без предупреждения через 40 минут с момента соединения третьего участника. Это означает что учитель должен соблюдать следующие правила:
 1. учитель не должен начинать встречу задолго до начала урока
