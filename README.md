@@ -28,7 +28,9 @@
 
 Online уроки в Русской Школе будут организованы согласно следующей схеме:
 
-![alt text](figures/distance-education-structure.png)
+<!-- ![alt text](figures/distance-education-structure.png) -->
+![схема организации online-уроков в Кембриджской русской школе](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/figures/distance-education-structure.png)
+
 
 Для успешного использования этой схемы необходима следующая подготовка ([подробные инструкции здесь](zoom-edmodo-instructions.md)).
 
