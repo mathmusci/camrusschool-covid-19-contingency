@@ -56,7 +56,6 @@ Online уроки в Русской Школе будут организован
 
 
 # Полезные ссылки
- * [Tаблица уроков, которые могут проводиться online и оценка готовности учителей](https://docs.google.com/spreadsheets/d/1nRFMS145sagJ6BqQtX3eFuEH3QcsadTruQc9sQUIZWg/edit?usp=sharing)
  * [Coronavirus (COVID-19): UK government response](https://www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response)
  * [NHS Medical guidance on Coronavirus (COVID-19): information for the general public](https://www.nhs.uk/conditions/coronavirus-covid-19/)
  * [Dashboard showing reported cases of coronavirus in the UK, including new cases, cases by upper tier local authority in England and number of deaths](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
