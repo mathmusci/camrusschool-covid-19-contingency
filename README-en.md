@@ -29,8 +29,8 @@ Online lessons at the Russian School will be organised according to the followin
 In order to use this scheme successfully, the following preparation is required ([detailed instructions can be found here](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)).
 
 School Administration **in advance**
- * together with the teachers, defines the list and schedule of the online lessons
- * publishes the list and schedule of the online lessons and notifies the parents and teachers 
+ * together with the teachers, determines which lessons can be delivered online
+ * publishes the list and schedule of the online lessons and notifies the parents and teachers correspondingly 
 
 The teachers **in advance (no later than 18 March)**
  * install ZOOM on their home computers
