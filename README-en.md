@@ -24,7 +24,7 @@ The Board of Trustees and the administration of the Cambridge Russian School are
 Online lessons at the Russian School will be organised according to the following scheme:
 
 <!-- ! [alt text] (figures / distance-education-structure.png) -->
-![The scheme of organizing online lessons at Cambridge Russian school](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/figures/distance-education-structure.png)
+![The scheme of organizing online lessons at Cambridge Russian school](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/figures/distance-education-structure-en.png)
 
 In order to use this scheme successfully, the following preparation is required ([detailed instructions can be found here](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions-en.md)).
 
