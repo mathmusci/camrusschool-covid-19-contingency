@@ -6,8 +6,8 @@
 * in order to participate in an online lesson, start the installed client application `ZOOM`, click `Join` and type in the access code of the correct teacher that you received (the access code can also be entered in the browser at [https://zoom.us/join](https://zoom.us/join)). Note that the client application is still needed in order to participate in the lesson!
 
 ## Instructions for Teachers
-* ** in advance ** (and no later than 18 March 2020) register on the site [https://zoom.us/signup](https://zoom.us/signup); note that *quick* registration using your `Google` or `Facebook` account is also possible
-* **in advance** download and install the client program ([https://zoom.us/download#client_4meeting†(https://zoom.us/download#client_4meeting))
+* **in advance** (and no later than 18 March 2020) register on the site [https://zoom.us/signup](https://zoom.us/signup); note that *quick* registration using your `Google` or `Facebook` account is also possible
+* **in advance** download and install the client program ([https://zoom.us/download#client_4meeting](https://zoom.us/download#client_4meeting))
 * after installing `ZOOM` on your computer, copy your ID number as shown in the screenshot below and send it to the school administration by email (admissions@camrusschool.org.uk); You can also find your `Personal Meeting ID` by visiting the following page: [https://zoom.us/profile†(https://zoom.us/profile)
 
 &nbsp;
@@ -24,7 +24,7 @@
 
 &nbsp;
 
-* (**IMPORTANT!**) video recording of lessons is prohibited, therefore, **in advance**, visit the settings page for video recording [https://zoom.us/profile/setting?tab=recording](https:// zoom.us/profile/setting?tab=recording) and set these as follows: `Local recording -> OFF`,`Automatic recording -> OFF`, `Recording consent -> ON`, `Multiple audio notifications of recorded meeting - > ON`.
+* (**IMPORTANT!**) video recording of lessons is prohibited, therefore, **in advance**, visit the settings page for video recording [https://zoom.us/profile/setting?tab=recording](https://zoom.us/profile/setting?tab=recording) and set these as follows: `Local recording -> OFF`,`Automatic recording -> OFF`, `Recording consent -> ON`, `Multiple audio notifications of recorded meeting - > ON`.
 &nbsp;
 
 ![alt text](figures/recordings-settings.png)
