@@ -29,13 +29,13 @@ Online lessons at the Russian School will be organised according to the followin
 In order to use this scheme successfully, the following preparation is required ([detailed instructions are here](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)).
 
 School Administration **in advance**
- * together with the teachers, defines the list and schedule of the online lessons
- * publishes the list and schedule of the online lessons and notifies the parents and teachers 
+ * together with the teachers, defines the list and schedule of the online lessons
+ * publishes the list and schedule of the online lessons and notifies the parents and teachers 
 
 The teachers **in advance (no later than 18 March)**
- * install ZOOM on their home computers
- * create **one** video conference in ZOOM - this video conference will be used as the online "teacher’s classroom"
- * send their access codes to ZOOM video conferences to the administration (each teacher has one video conference and one access code!) 
+ * install ZOOM on their home computers
+ * create **one** video conference in ZOOM - this video conference will be used as the online "teacher’s classroom"
+ * send their access codes to ZOOM video conferences to the administration (each teacher has one video conference and one access code!) 
 
 [More detailed instructions are here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
@@ -46,8 +46,8 @@ The parents
 [More detailed instructions are here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
 ** As soon as the decision to transfer the School to the online operation mode is made the administration**
- * **will notify the parents and teachers about this**
- * **will send the codes it received from the teachers to the parents (then the parents themselves will need to find the correct access code opposite the teacher’s name)**
+ * **will notify the parents and teachers about this**
+ * **will send the codes it received from the teachers to the parents (then the parents themselves will need to find the correct access code opposite the teacher’s name)**
 
 
 # Useful links
