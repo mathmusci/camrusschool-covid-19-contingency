@@ -10,9 +10,9 @@ The Board of Trustees and the administration of the Cambridge Russian School are
 
  * The School will continue its normal operation and the provision of lessons with their face-to-face attendance at its official address (Long Road Sixth Form College, Long Road, Cambridge, CB2 8PX) until at least one of the following events occurs:
 
-  1. The central government or the regional administration orders to close all schools in the country or the region.
-  2. Long Road Sixth Form College bans the access to its premises for reasons related to the epidemiological situation.
-  3. There is an officially confirmed case of coronavirus infection among students, parents or staff.
+ 1. The central government or the regional administration orders to close all schools in the country or the region.
+ 2. Long Road Sixth Form College bans the access to its premises for reasons related to the epidemiological situation.
+ 3. There is an officially confirmed case of coronavirus infection among students, parents or staff.
 
  * During the entire period when the School operates normally, with the provision of face-to-face classes, the parents’/carers’ decision not to attend classes does not entail a recalculation of tuition fees.
  * In the event that the functioning of the School in normal mode with the provision of face-to-face classes is temporarily impossible, the School will ensure continuity of education and continue providing classes in the form of distance learning where the school administration considers it feasible. The decision which classes are going to run will be made jointly by the administration and teachers, and a complete list of such classes will be published in a timely manner. The schedule of online lessons will follow the current school timetable, and class lists will remain unchanged. The parents’/carers’ decision not to attend the online lessons provided by the School does not entail a recalculation of tuition fees.
