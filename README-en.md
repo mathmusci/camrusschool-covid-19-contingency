@@ -26,7 +26,7 @@ Online lessons at the Russian School will be organised according to the followin
 <!-- ! [alt text] (figures / distance-education-structure.png) -->
 ![The scheme of organizing online lessons at Cambridge Russian school](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/figures/distance-education-structure.png)
 
-In order to use this scheme successfully, the following preparation is required ([detailed instructions can be found here](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)).
+In order to use this scheme successfully, the following preparation is required ([detailed instructions can be found here](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions-en.md)).
 
 School Administration **in advance**
  * together with the teachers, determines which lessons can be delivered online
@@ -37,13 +37,13 @@ The teachers **in advance (no later than 18 March)**
  * create **one** video conference in ZOOM - this video conference will be used as the online "teacher’s classroom"
  * send their access codes to ZOOM video conferences to the administration (each teacher has one video conference and one access code!) 
 
-[More detailed instructions can be found here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
+[More detailed instructions can be found here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions-en.md)
 
 The parents
  * install ZOOM on their home computers in advance (no later than 19 March)
  * use the access codes they received to connect to the video-conference lessons on the day of their classes
 
-[More detailed instructions can be found here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
+[More detailed instructions can be found here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions-en.md)
 
 **As soon as the decision to transfer the School to the online operation mode is made the administration**
  * **will notify the parents and teachers about this**
