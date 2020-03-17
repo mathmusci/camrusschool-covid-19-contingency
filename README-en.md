@@ -5,7 +5,7 @@ Cambridge Russian School is a Saturday supplementary school. Education at the Sc
 On March 12, 2020, the World Health Organization declared the coronavirus epidemic (COVID-19) a global pandemic. The situations in various countries are changing rapidly and the measures taken by governments, local government bodies and health care organisations differ. At present, the British government does not consider it effective to cease teaching in educational institutions across the country (including children's schools) and to close them, while it does not exclude that such a measure can be applied in the following weeks and / or months. Some universities have decided to temporarily switch to distance learning, but they have made these decisions independently.
 -->
 
-## The operation of the Russian School from March 14 to April 4, 2020
+## Russian School and its activities between March 14 and April 4, 2020
 The Board of Trustees and the administration of the Cambridge Russian School are monitoring the evolving situation associated with the coronavirus epidemic (COVID-19). The official position of the School is as follows:
 
  * The School will continue its normal operation and the provision of lessons with their face-to-face attendance at its official address (Long Road Sixth Form College, Long Road, Cambridge, CB2 8PX) until at least one of the following events occurs:
