@@ -45,7 +45,7 @@ The parents
 
 [More detailed instructions are here.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
-** As soon as the decision to transfer the School to the online operation mode is made the administration**
+**As soon as the decision to transfer the School to the online operation mode is made the administration**
  * **will notify the parents and teachers about this**
  * **will send the codes it received from the teachers to the parents (then the parents themselves will need to find the correct access code opposite the teacher’s name)**
 
