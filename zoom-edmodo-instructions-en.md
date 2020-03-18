@@ -8,7 +8,7 @@
 ## Instructions for Teachers
 * **in advance** (and no later than 18 March 2020) register on the site [https://zoom.us/signup](https://zoom.us/signup); note that *quick* registration using your `Google` or `Facebook` account is also possible
 * **in advance** download and install the client program ([https://zoom.us/download#client_4meeting](https://zoom.us/download#client_4meeting))
-* after installing `ZOOM` on your computer, copy your ID number as shown in the screenshot below and send it to the school administration by email (admissions@camrusschool.org.uk); You can also find your `Personal Meeting ID` by visiting the following page: [https://zoom.us/profile†(https://zoom.us/profile)
+* after installing `ZOOM` on your computer, copy your ID number as shown in the screenshot below and send it to the school administration by email (admissions@camrusschool.org.uk); You can also find your `Personal Meeting ID` by visiting the following page: [https://zoom.us/profile](https://zoom.us/profile)
 
 &nbsp;
 
