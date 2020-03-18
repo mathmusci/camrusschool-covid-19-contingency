@@ -41,4 +41,10 @@
 We use Zoom  in a free mode, therefore the meeting may end automatically and without warning 40 minutes after the third participant had joined it. The teachers are therefore advised to conform to the following rules:
 1. the teacher should not start the meeting long before the start of the lesson
 2. the lesson starts from the moment the teacher is connected - you should not wait for "latecomers"
-3. the teacher should keep track of time (ideally by using a timer / stopwatch) in order to finish the lesson in a courteous manner whenever possible.
+3. the teacher should keep track of time (it is possible to enable a timer in ZOOM - see details below) in order to finish the lesson in a courteous manner whenever possible.
+
+* In order to enable a timer that is showing meeting's duration click on the avatar/icon i nthe upper right corner of the application and choose `Settings` and then `General`; tick `Show my meeting duration` as shown below:
+
+&nbsp;
+
+![alt text](figures/show-meeting-duration.png)
