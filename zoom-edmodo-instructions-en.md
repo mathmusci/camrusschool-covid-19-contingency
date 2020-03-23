@@ -8,7 +8,7 @@
 ## Instructions for Teachers
 * **in advance** (and no later than 18 March 2020) register on the site [https://zoom.us/signup](https://zoom.us/signup); note that *quick* registration using your `Google` or `Facebook` account is also possible
 * **in advance** download and install the client program ([https://zoom.us/download#client_4meeting](https://zoom.us/download#client_4meeting))
-* after installing `ZOOM` on your computer, copy your ID number as shown in the screenshot below and send it to the school administration by email (admissions@camrusschool.org.uk); You can also find your `Personal Meeting ID` by visiting the following page: [https://zoom.us/profile](https://zoom.us/profile)
+* after installing `ZOOM` on your computer, copy your ID number as shown in the screenshot below and send it to the school administration by email (admissions@camrusschool.org.uk); you can also find your `Personal Meeting ID` by visiting the following page: [https://zoom.us/profile](https://zoom.us/profile)
 
 &nbsp;
 
@@ -48,3 +48,24 @@ We use Zoom  in a free mode, therefore the meeting may end automatically and wit
 &nbsp;
 
 ![alt text](figures/show-meeting-duration.png)
+
+&nbsp;
+
+* In order to share your screen or play a video during the call/lesson, use the button `Share Screen` of ZOOM's control panel at the bottom of the application screen. As shown in the screenshot below, do make sure that `Share computer sound` is ticked when you choose a screen to share in order to enable the audio as well (if `Share computer sound` is not selected, the participants will be able to see the video **without** any sound):
+
+&nbsp;
+
+![alt text](figures/share-computer-sound.png)
+
+* In order to disable other participants to draw on the whiteboard you may be sharing, make sure that Annotation from ZOOM's settings is turned OFF. Specifically, visit `https://zoom.us/profile/setting` and click on `In Meeting (Basic)`, then find `Annotation` and make sure that it is disabled, as shown below:
+
+&nbsp;
+
+![alt text](figures/whiteboard-annotations-off.png)
+
+&nbsp;
+
+# Useful links
+ * [Scheduling meetings in ZOOM](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
+ * [How to use ZOOM for online learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+ * [How to share video and audio in ZOOM](https://www.youtube.com/watch?v=-8XQa7YGcmM)

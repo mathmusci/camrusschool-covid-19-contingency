@@ -49,3 +49,26 @@
 &nbsp;
 
 ![alt text](figures/show-meeting-duration.png)
+
+&nbsp;
+
+* Для транслирования своего экрана или проигрывания видео во время звонка/урока, необходимо воспользоваться кнопкой `Share Screen` в панели управления. При этом, необходимо убедиться, что выбранa опция `Share computer sound` для того, чтобы передавалось не только видео, но и звук, как показано на следующем скриншоте:
+
+&nbsp;
+
+![alt text](figures/share-computer-sound.png)
+
+&nbsp;
+
+* Для того, чтобы запретить другим участникам видео-звонка рисовать или печатать на электронной доске, которую вы собираетесь транслировать, перед началом звонка необходимо убедиться, что в настройках ZOOM'a переключатель Annotation выключен (OFF). Для этого необходимо посетить страницу `https://zoom.us/profile/setting`, выбрать `In Meeting (Basic)`, найти переключатель `Annotation` и убедится, что оно находится в выключенном положении:
+
+&nbsp;
+
+![alt text](figures/whiteboard-annotations-off.png)
+
+&nbsp;
+
+# Полезные ссылки
+ * [Scheduling meetings in ZOOM](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
+ * [How to use ZOOM for online learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+ * [How to share video and audio in ZOOM](https://www.youtube.com/watch?v=-8XQa7YGcmM)
