@@ -47,6 +47,20 @@
 
 &nbsp;
 
+* **WARNING!** The update made on April 4, 2020 introduces the use of waiting rooms by default! This means that parents, when trying to access your lesson (personal meeting), will first join the waiting room and will only be able to join the lesson if you explicitly admit them. ZOOM will show you who joined the waiting room and will offer you to either block or admit your meeting guests. The teachers must be aware of this behaviour of the application and act correspondingly. The use of the waiting room is optional and can  be disables as follows:
+
+	1. visit https://zoom.us/profile/setting (make sure you are signed in, see https://zoom.us/signin)
+
+	2. find Section `Waiting room` - this section is shown in the following screenshot:
+
+	![alt text](figures/waiting-room.png)
+
+	3. use the selector and disable the use of the waiting room.
+
+	**The rule is straightforward - when the waiting room is *enabled*, the teachers need to bear in mind that parents will not be able to leave the waiting woom and join the lesson until they are explicitly admitted to it by the teacher (i.e. meeting host). If the use of the waiting room is *disabled*, parents will be able to join the lesson without having to join the meeting room and wait for your permission to join the lesson.**
+
+&nbsp;
+
 * in order to start an online lesson click ‘New Meeting’
 
 * ZOOM offers an electronic board (`Whiteboard`), which can be used during your lesson; in order to enable this, click on `Share screen -> Whiteboard` (this function only works during the lesson)
