@@ -39,7 +39,7 @@ Online уроки в Русской Школе будут организован
 
  * устанавливают ZOOM на своем домашнем компьютере
  * создают **одну** видео-конференцию в ZOOM'e - эта видео-конференция будет использоваться как online "кабинет учителя"
- * высылают администрации коды доступа к своим ZOOM видео-конференциям (один учитель - одна видео-конференция и один код доступа!)
+ * высылают администрации коды доступа (и, возможно, пароли) к своим ZOOM видео-конференциям (один учитель - одна видео-конференция, один код доступа и один пароль!)
 
 [Более подробные инструкции здесь.](https://github.com/mathmusci/camrusschool-covid-19-contingency/blob/master/zoom-edmodo-instructions.md)
 
@@ -52,13 +52,14 @@ Online уроки в Русской Школе будут организован
 
 **Как только принимается решение о переводе школы в online-режим администрация**
  * **уведомляет об этом родителей и учителей**
- * **рассылает полученные от учителей коды доступа родителям (родители затем сами находят нужный код доступа напротив имени учителя)**
+ * **рассылает полученные от учителей коды доступа с паролями родителям (родители затем сами находят нужный код доступа с паролем напротив имени учителя)**
 
 
 # Полезные ссылки
  * [Coronavirus (COVID-19): UK government response](https://www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response)
  * [NHS Medical guidance on Coronavirus (COVID-19): information for the general public](https://www.nhs.uk/conditions/coronavirus-covid-19/)
  * [COVID-19: travel guidance for the education sector (Department for Education and Public Health England)](https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/covid-19-travel-guidance-for-the-education-sector)
+ * [Epidemic calculator](http://gabgoh.github.io/COVID/)
  * [Dashboard showing reported cases of coronavirus in the UK, including new cases, cases by upper tier local authority in England and number of deaths](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
  * [Scheduling meetings in ZOOM](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
  * [How to use ZOOM for online learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)

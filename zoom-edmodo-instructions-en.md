@@ -31,6 +31,22 @@
 
 &nbsp;
 
+* **IMPORTANT!** From 4-5 April 2020 ZOOM introduced obligatory use of passwords for all meetings on basic accounts, including the meetings that use Personal Meeting IDs. Even if you did not have to use passwords before for enabling access to your ZOOM meetings, you will have to start using it now, as ZOOM enforces it now. In order to find out the password that ZOOM assigned to your Personal Meeting ID by default and change it to the password you wish to use, do the following:: 
+
+	1. use your internet browser and visit the following profile settings page: https://zoom.us/profile/setting (make sure you do that while being signed in to your ZOOM account, see https://zoom.us/signin)
+
+	2. find Section `Require a password for Personal Meeting ID (PMI)` - this section is shown in the following screenshot:
+
+	![alt text](figures/find-password.png)
+
+	3. find your current password under the line `All meetings using PMI` - you can change the password now by pressing the button next to it:
+
+	![alt text](figures/modify-password.png)
+
+	4. send your updated password to School Administration (admissions@camrusschool.org.uk or head@camrusschool.org.uk)
+
+&nbsp;
+
 * in order to start an online lesson click ‘New Meeting’
 
 * ZOOM offers an electronic board (`Whiteboard`), which can be used during your lesson; in order to enable this, click on `Share screen -> Whiteboard` (this function only works during the lesson)
