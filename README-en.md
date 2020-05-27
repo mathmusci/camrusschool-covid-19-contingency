@@ -57,3 +57,4 @@ The parents
  * [Dashboard showing reported cases of coronavirus in the UK, including new cases, cases by upper tier local authority in England and number of deaths](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
  * [Scheduling meetings in ZOOM](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
  * [How to use ZOOM for online learning](https://blog.zoom.us/wordpress/2020/03/13/how-to-use-zoom-for-online-learning/)
+ * [Coronavirus (COVID 19): list of online education resources for home education](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education)

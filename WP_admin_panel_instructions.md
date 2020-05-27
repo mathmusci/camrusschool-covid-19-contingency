@@ -6,9 +6,9 @@
 
 * The tables we are interested have the following ids: 
   + table id 39 (formerly 28)
-  + table id 29 (formerly 40)
-  + table id 30 (formerly 41)
-  + table id 31 (formerly 42)
+  + table id 40 (formerly 29)
+  + table id 41 (formerly 30)
+  + table id 42 (formerly 31)
 
 * The timetables can be accessed and edited at the following links:
   + [Дошкольное обучение (0-5 лет) 2020-21 учебный год](https://camrusschool.org.uk/wp-admin/admin.php?page=tablepress&action=edit&table_id=39)
