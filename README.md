@@ -57,6 +57,7 @@ Online уроки в Русской Школе будут организован
 
 # Полезные ссылки
  * [Coronavirus (COVID-19): UK government response](https://www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response)
+ * [COVID-19 Projections Using Machine Learning](https://covid19-projections.com/#view-projections)
  * [NHS Medical guidance on Coronavirus (COVID-19): information for the general public](https://www.nhs.uk/conditions/coronavirus-covid-19/)
  * [COVID-19: travel guidance for the education sector (Department for Education and Public Health England)](https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/covid-19-travel-guidance-for-the-education-sector)
  * [Epidemic calculator](http://gabgoh.github.io/COVID/)
